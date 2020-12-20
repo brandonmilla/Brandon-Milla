@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+    font-family: 'Renogare-Regular';
+    src:url(../fuentes/Renogare-Regular.otf);
+}
+@font-face{
+    font-family: 'OpenSans-Regular';
+    src: url(../fuentes/OpenSans-Regular.ttf);
+}
+body{
+    background-color:rgb(247,247,247);
+}
+.borde{
+    background-color: #000000;
+    height: 11px;
+}
+#presentacion{
+    background-color: #000000;
+    font-family: 'Renogare-Regular';
+    color: #ffffff;
+    background: #000000;
+}
+.desc{
+    font-family: 'OpenSans-Regular';
+    font-size: 14px;
+    text-align: center;
+}
+.img-principal{
+    height: 570px;
+    width: 555px;
+}
+.img-trabajo{
+    height: 277px;
+    width: 267px;
+}
+.conoce{
+    font-size: 18px;
+}
+#pie{
+    font-family: 'Renogare-Regular';
+    background-color: #ffffff;
+}
+.icono{
+    width: 35px;
+}
+.contacto{
+    text-decoration: underline;
+}
+.cont{
+    font-family:'OpenSans-Regular';
+}
